@@ -80,6 +80,7 @@ Se necesitas axuda ou queres axudar co proxecto (contribuindo co escenario, loca
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[license-shield]: https://img.shields.io/badge/license-GNU%20GPL--v3-brightgreen
 [license-url]: https://github.com/GalizaTTD/escenario/blob/main/LICENSE
 [project-url]: https://github.com/GalizaTTD/escenario
 [issues-url]: https://github.com/GalizaTTD/escenario/issues
