@@ -5,7 +5,7 @@ O formato está baseado en [Keep a Changelog](https://keepachangelog.com/en/1.0.
 e o proxecto adhírese a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [Aínda non publicados]
+## [1.0.0 - 2024-09-22]
 ### ✨ Engadidos
 - Traducións das embarcacións de vela ó galego.
 - Paquetes de trens de Europa e de Corea do Norte, traducidos ó galego.
