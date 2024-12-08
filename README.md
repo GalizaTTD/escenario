@@ -39,6 +39,7 @@ Este é o repositorio onde está o escenario de GalizaTTD, así como todos os Ne
 
 - [ ] Desenvolver un pack de casas incorporando casas propias de cada rexión que se vaian construíndo soas nesas rexións baseandose na localización. [Comezado pero deixado para mais adiante.](https://github.com/GalizaTTD/galician-houses)
 - [ ] Desenvolver un pack de obxectos decorativos propias da Galiza onde se inclúan castros, faros, monumentos varios e o que consideremos.
+- [ ] En caso de facer novos tipos de chan, hai unha ferramente dispoñible en Github para facela apta para pendentes e costas: https://github.com/chujo-chujo/Slope-Generator
 - [ ] Facer a [localización do pack de trens de China](https://github.com/OpenTTD-China-Set/China-Set-Trains/blob/main/docs/str.CSV).
 
 **[⬆️ Volver arriba](#escenario-galizattd)**

@@ -5,6 +5,12 @@ O formato está baseado en [Keep a Changelog](https://keepachangelog.com/en/1.0.
 e o proxecto adhírese a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.2.0 - 2024-12-08]
+### ✨ Engadidos
+- Engadidos vehículos Húngaros para autobuses, camións e tranvías.
+### 🏗️ Cambios
+- Actualizada a versión base do xogo a JGRPP 0.63.1 e múltiples packs de obxectos.
+
 ## [1.1.1 - 2024-11-03]
 ### 🐛 Arranxos
 - Arranxado erro co RenewedVillageGrowth que impedía o arranque da partida.
