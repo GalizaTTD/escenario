@@ -4,6 +4,14 @@ Todos os cambios significativos no servidor de GalizaTTD estarán documentados n
 O formato está baseado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 e o proxecto adhírese a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0 - 2025-06-02]
+### ✨ Engadidos
+- Engadidos JP+ Tracks para usar como ferrocarrís base
+- Engadidas casas suecas e xaponesas agora que se poden poñer manualmente as casas.
+### 🏗️ Cambios
+- Actualizada a versión base do xogo a JGRPP 0.65.3 e múltiples packs de obxectos.
+### ⏪ Eliminados
+- Pack propio de ferrocarrís de Galicia.
 
 ## [1.2.0 - 2024-12-08]
 ### ✨ Engadidos
